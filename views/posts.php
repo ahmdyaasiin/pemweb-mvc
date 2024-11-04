@@ -1,4 +1,4 @@
-<a href="?c=Post&m=create”>Create Post</a>
+<a href="?c=Post&m=create_form">Create Post</a>
 <?php
 
 if (!$posts->num_rows) {
